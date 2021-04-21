@@ -13,3 +13,5 @@ Similar to a crypto currency wallet, the citizen wallet is your private FOSS sof
 - [ ] build & promote interfaces that would make it easier to use citizen wallets
 - [ ] come up with a "public servant wallet"
 - [ ] have a government that fully runs on a secure FOSS software stack 
+
+Let me know, if you are interested: lukas@rambold.de
